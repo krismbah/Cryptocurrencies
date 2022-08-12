@@ -70,15 +70,15 @@ Using knowledge of creating scatter plots with Plotly Express and hvplot, visual
 
 Figure 4:
 
-![Image4](https://raw.githubusercontent.com/krismbah/Cryptocurrencies/main/D4.jpg)
+![Image4](https://raw.githubusercontent.com/krismbah/Cryptocurrencies/main/D4.png)
 
 
 Figure 4.1:
 
-![Image4.1](https://raw.githubusercontent.com/krismbah/Cryptocurrencies/main/D4.1.jpg)
+![Image4.1](https://raw.githubusercontent.com/krismbah/Cryptocurrencies/main/D4.1.png)
 
 
 Figure 4.2:
 
-![Image4.2](https://raw.githubusercontent.com/krismbah/Cryptocurrencies/main/D4.2.jpg)
+![Image4.2](https://raw.githubusercontent.com/krismbah/Cryptocurrencies/main/D4.2.png)
 
