@@ -66,7 +66,7 @@ Figure 3.2:
 
 
 ***Deliverable 4: Visualizing Cryptocurrencies Results***
-Using knowledge of creating scatter plots with Plotly Express and hvplot, visualize the distinct groups that correspond to the three principal components  created in Deliverable 2, then create a table with all the currently tradable cryptocurrencies using the hvplot.table() function
+Using knowledge of creating scatter plots with Plotly Express and hvplot, visualize the distinct groups that correspond to the three principal components  created in Deliverable 2, then create a table with all the currently tradable cryptocurrencies using the hvplot.table() function:
 
 Figure 4:
 
